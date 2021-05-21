@@ -1,0 +1,25 @@
+﻿No,Raza,Tamano,TipoPelo,Comportamiento,EspacioNecesario,Hocico,ExpectativadeVida,Actividadfisica,ComplexionCorporal,Orejas
+1,Pastor Aleman,Grande,Peludo,"Obediente, Inteligente, Amigable",Grande,Alargado,Promedio,Alta,Normal,Paradas
+2,Bulldog,Mediano,Poco Pelo,"Amigable, Tranquilo, Amoroso",Medio,Chato,Corta,Promedio,Gordo,Caidas
+3,Golder Retriever,Grande,Peludo,"Amigable, Amoroso,inteligente",Grande,Alargado,Promedio,Alta,Normal,Caidas
+4,Poodle,Mediano,Medio,"Energico,Entrenable,Jugueton",Medio,Alargado,Alta,Promedio,Delgado,Caidas
+5,Labrador,Grande,Medio,"Amable, Amoroso, Inteligente",Grande,Alargado,Promedio,Alta,Normal,Caidas
+6,Chihuahua,Pequeno,Poco Pelo,"Agresivo, Amoroso",Reducido,Chato,Alta,Baja,Delgado,Caidas y Paradas
+7,Husky,Grande,Peludo,"Inteligente, Amable, Jugueton",Grande,Alargado,Promedio,Alta,Normal,Paradas
+8,Gran Danes,Grande,Poco Pelo,"Amigable, Amoroso,inteligente",Grande,Alargado,Corta,Alta,Delgado,Caidas
+9,Rottweiler,Grande,Poco Pelo,"Agresivo, Amoroso",Grande,Chato,Corta,Alta,Musculoso,Caidas
+10,Galgo,Grande,Poco Pelo,"Amoroso, Inteligente, Amigable",Grande,Alargado,Promedio,Alta,Delgado,Paradas
+11,Pomerania,Pequeno,Peludo,"Tranquilo, Jugueton, Amigable",Reducido,Chato,Alta,Baja,Normal,Paradas
+12,Shih Tzu,Mediano,Peludo,"Amoroso, Amigable, Jugueton",Reducido,Chato,Alta,Baja,Normal,Caidas
+13,Doberman,Grande,Poco Pelo,"Inteligente, Obediente,",Grande,Alargado,Promedio,Alta,Delgado,Paradas
+14,Border Collie,Mediano,Peludo,"Inteligente, Amable, Jugueton",Medio,Alargado,Alta,Alta,Normal,Caidas
+15,Boston Terrier,Mediano,Poco Pelo,"Inteligente, Amigable, Jugueton",Medio,Chato,Alta,Promedio,Normal,Paradas
+16,Shiba,Mediano,Poco Pelo,"Amigable, Tranquilo, Amoroso",Medio,Alargado,Alta,Promedio,Normal,Paradas
+17,Basset hound,Mediano,Poco Pelo,"Amoroso,Amigable,Tranquilo",Reducido,Alargado,Promedio,Baja,Gordo,Caidas
+18,Chow Chow,Grande,Peludo,"Obediente, Inteligente,",Grande,Chato,Promedio,Alta,Gordo,Paradas
+19,Bull Terrier,Mediano,Poco Pelo,"Energico, Entrenable",Medio,Alargado,Promedio,Promedio,Normal,Paradas
+20,San Bernardo,Grande,Peludo,"Amigable,Amoroso, Tranquilo",Grande,Alargado,Corta,Alta,Normal,Caidas
+21,Cocker Spaniel,Pequeno,Peludo,"Jugueton, Amoroso, Amigable",Reducido,Alargado,Alta,Promedio,Normal,Caidas
+22,Dalmata,Grande,Poco Pelo,"Inteligente, Jugueton, Amigable",Grande,Alargado,Promedio,Alta,Delgado,Caidas
+23,Pit Bull,Grande,Poco Pelo,"Inteligente,Amoroso, Amigable",Grande,Chato,Promedio,Alta,Musculoso,Caidas
+24,Samoyedo,Mediano,Peludo,"Jugueton, Amoroso, Amigable",Grande,Alargado,Alta,Alta,Normal,Paradas
