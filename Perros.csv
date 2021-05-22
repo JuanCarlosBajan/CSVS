@@ -1,25 +1,25 @@
-﻿No,Raza,Tamano,TipoPelo,Comportamiento1,Comportamiento2,Comportamiento3,EspacioNecesario,Hocico,ExpectativadeVida,Actividadfisica,ComplexionCorporal,Orejas
-1,Pastor Aleman,Grande,Peludo,Obediente,Entrenable,Amigable,Grande,Alargado,Promedio,Alta,Normal,Paradas
-2,Bulldog,Mediano,Poco Pelo,Amigable,Tranquilo,Amoroso,Medio,Chato,Corta,Promedio,Gordo,Caidas
-3,Golder Retriever,Grande,Peludo,Amigable,Amoroso,Inteligente,Grande,Alargado,Promedio,Alta,Normal,Caidas
-4,Poodle,Mediano,Medio,Amoroso,Entrenable,Jugueton,Medio,Alargado,Alta,Promedio,Delgado,Caidas
-5,Labrador,Grande,Medio,Amigable,Amoroso,Inteligente,Grande,Alargado,Promedio,Alta,Normal,Caidas
-6,Chihuahua,Pequeno,Poco Pelo,Agresivo,Amoroso,Jugueton,Reducido,Chato,Alta,Baja,Delgado,Caidas
-7,Husky,Grande,Peludo,Inteligente,Amable,Jugueton,Grande,Alargado,Promedio,Alta,Normal,Paradas
-8,Gran Danes,Grande,Poco Pelo,Amigable,Amoroso,Inteligente,Grande,Alargado,Corta,Alta,Delgado,Caidas
-9,Rottweiler,Grande,Poco Pelo,Agresivo,Amoroso,Jugueton,Grande,Chato,Corta,Alta,Musculoso,Caidas
-10,Galgo,Grande,Poco Pelo,Amoroso,Inteligente,Amigable,Grande,Alargado,Promedio,Alta,Delgado,Paradas
-11,Pomerania,Pequeno,Peludo,Tranquilo,Jugueton,Amigable,Reducido,Chato,Alta,Baja,Normal,Paradas
-12,Shih Tzu,Mediano,Peludo,Amoroso,Amigable,Jugueton,Reducido,Chato,Alta,Baja,Normal,Caidas
-13,Doberman,Grande,Poco Pelo,Inteligente,Obediente,Amoroso,Grande,Alargado,Promedio,Alta,Delgado,Paradas
-14,Border Collie,Mediano,Peludo,Inteligente,Amigable,Jugueton,Medio,Alargado,Alta,Alta,Normal,Caidas
-15,Boston Terrier,Mediano,Poco Pelo,Inteligente,Amigable,Jugueton,Medio,Chato,Alta,Promedio,Normal,Paradas
-16,Shiba,Mediano,Poco Pelo,Amigable,Tranquilo,Amoroso,Medio,Alargado,Alta,Promedio,Normal,Paradas
-17,Basset hound,Mediano,Poco Pelo,Amoroso,Amigable,Tranquilo,Reducido,Alargado,Promedio,Baja,Gordo,Caidas
-18,Chow Chow,Grande,Peludo,Obediente,Inteligente,Amoroso,Grande,Chato,Promedio,Alta,Gordo,Paradas
-19,Bull Terrier,Mediano,Poco Pelo,Jugueton,Entrenable,Entrenable,Medio,Alargado,Promedio,Promedio,Normal,Paradas
-20,San Bernardo,Grande,Peludo,Amigable,Amoroso,Tranquilo,Grande,Alargado,Corta,Alta,Normal,Caidas
-21,Cocker Spaniel,Pequeno,Peludo,Jugueton,Amoroso,Amigable,Reducido,Alargado,Alta,Promedio,Normal,Caidas
-22,Dalmata,Grande,Poco Pelo,Inteligente,Jugueton,Amigable,Grande,Alargado,Promedio,Alta,Delgado,Caidas
-23,Pit Bull,Grande,Poco Pelo,Inteligente,Amoroso,Amigable,Grande,Chato,Promedio,Alta,Musculoso,Caidas
-24,Samoyedo,Mediano,Peludo,Jugueton,Amoroso,Amigable,Grande,Alargado,Alta,Alta,Normal,Paradas
+﻿No,Raza,Tamano,TipoPelo,Comportamiento1,Comportamiento2,Comportamiento3,EspacioNecesario,Hocico,ExpectativadeVida,Actividadfisica,ComplexionCorporal,Orejas,Ranking
+1,Pastor Aleman,Grande,Peludo,Obediente,Entrenable,Amigable,Grande,Alargado,Promedio,Alta,Normal,Paradas,0
+2,Bulldog,Mediano,Poco Pelo,Amigable,Tranquilo,Amoroso,Medio,Chato,Corta,Promedio,Gordo,Caidas,0
+3,Golder Retriever,Grande,Peludo,Amigable,Amoroso,Inteligente,Grande,Alargado,Promedio,Alta,Normal,Caidas,0
+4,Poodle,Mediano,Medio,Amoroso,Entrenable,Jugueton,Medio,Alargado,Alta,Promedio,Delgado,Caidas,0
+5,Labrador,Grande,Medio,Amigable,Amoroso,Inteligente,Grande,Alargado,Promedio,Alta,Normal,Caidas,0
+6,Chihuahua,Pequeno,Poco Pelo,Agresivo,Amoroso,Jugueton,Reducido,Chato,Alta,Baja,Delgado,Caidas,0
+7,Husky,Grande,Peludo,Inteligente,Amable,Jugueton,Grande,Alargado,Promedio,Alta,Normal,Paradas,0
+8,Gran Danes,Grande,Poco Pelo,Amigable,Amoroso,Inteligente,Grande,Alargado,Corta,Alta,Delgado,Caidas,0
+9,Rottweiler,Grande,Poco Pelo,Agresivo,Amoroso,Jugueton,Grande,Chato,Corta,Alta,Musculoso,Caidas,0
+10,Galgo,Grande,Poco Pelo,Amoroso,Inteligente,Amigable,Grande,Alargado,Promedio,Alta,Delgado,Paradas,0
+11,Pomerania,Pequeno,Peludo,Tranquilo,Jugueton,Amigable,Reducido,Chato,Alta,Baja,Normal,Paradas,0
+12,Shih Tzu,Mediano,Peludo,Amoroso,Amigable,Jugueton,Reducido,Chato,Alta,Baja,Normal,Caidas,0
+13,Doberman,Grande,Poco Pelo,Inteligente,Obediente,Amoroso,Grande,Alargado,Promedio,Alta,Delgado,Paradas,0
+14,Border Collie,Mediano,Peludo,Inteligente,Amigable,Jugueton,Medio,Alargado,Alta,Alta,Normal,Caidas,0
+15,Boston Terrier,Mediano,Poco Pelo,Inteligente,Amigable,Jugueton,Medio,Chato,Alta,Promedio,Normal,Paradas,0
+16,Shiba,Mediano,Poco Pelo,Amigable,Tranquilo,Amoroso,Medio,Alargado,Alta,Promedio,Normal,Paradas,0
+17,Basset hound,Mediano,Poco Pelo,Amoroso,Amigable,Tranquilo,Reducido,Alargado,Promedio,Baja,Gordo,Caidas,0
+18,Chow Chow,Grande,Peludo,Obediente,Inteligente,Amoroso,Grande,Chato,Promedio,Alta,Gordo,Paradas,0
+19,Bull Terrier,Mediano,Poco Pelo,Jugueton,Entrenable,Entrenable,Medio,Alargado,Promedio,Promedio,Normal,Paradas,0
+20,San Bernardo,Grande,Peludo,Amigable,Amoroso,Tranquilo,Grande,Alargado,Corta,Alta,Normal,Caidas,0
+21,Cocker Spaniel,Pequeno,Peludo,Jugueton,Amoroso,Amigable,Reducido,Alargado,Alta,Promedio,Normal,Caidas,0
+22,Dalmata,Grande,Poco Pelo,Inteligente,Jugueton,Amigable,Grande,Alargado,Promedio,Alta,Delgado,Caidas,0
+23,Pit Bull,Grande,Poco Pelo,Inteligente,Amoroso,Amigable,Grande,Chato,Promedio,Alta,Musculoso,Caidas,0
+24,Samoyedo,Mediano,Peludo,Jugueton,Amoroso,Amigable,Grande,Alargado,Alta,Alta,Normal,Paradas,0
